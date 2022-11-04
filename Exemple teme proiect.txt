@@ -1,0 +1,12 @@
+Exemple de teme:
+-structura unei organiza?ii (angaja?i, rela?ii ierarhice, salarii)
+-o agenda personala (categorii, întâlniri, sarcini)
+-activitatea unei companii de transport (ora?e, legaturi, ma?ini, rute)
+-credite (client, credit, rate)
+-cabinet medical (pacien?i, medici, re?ete)
+-admitere (candidat, facultate, examen)
+-vanzare de bilete online(client, eveniment, locatie)
+-software casa de marcat(metoda de plata, client, produs)
+-rezervare loc în sala de spectacol (spectacol, loc, client)
+-activitatea unei case de schimb valutar (valute, istoric curs, clien?i, tranzac?ii)
+-sistem de gestiune fi?iere (utilizatori, tip fisier, grup, tip utilizator)
